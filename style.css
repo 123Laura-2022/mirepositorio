@@ -1,0 +1,24 @@
+:root{
+    --color1:#fabada;
+}
+
+body{
+    font-family: sans-serif;
+    max-width: 960px;
+    margin: 10px auto;
+}
+
+header nav ul{ list-style: none; padding-left: 0;
+display: flex; flex-wrap: wrap; justify-content: center;}
+
+a{ text-decoration: none; color:var(--color1)}
+
+
+img{ max-width:100%;}
+
+ul.galeria{
+    list-style: none; padding-left: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px 10px;
+}
