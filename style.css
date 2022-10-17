@@ -6,6 +6,7 @@ body{
     font-family: sans-serif;
     max-width: 960px;
     margin: 10px auto;
+    background-color:green;
 }
 
 header nav ul{ list-style: none; padding-left: 0;
