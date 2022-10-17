@@ -7,6 +7,7 @@ body{
     max-width: 960px;
     margin: 10px auto;
     background-color:green;
+    padding:20px;
 }
 
 header nav ul{ list-style: none; padding-left: 0;
